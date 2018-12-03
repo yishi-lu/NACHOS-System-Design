@@ -19,7 +19,7 @@ Project2 (System Call and Virtual Memory):
 
 Project3 (Distributed File System): 
 
--Improve Nachos basica file system: allowing multiple thread read and write same file at same time. Increase the file size to be as larger as the dist (128KB). Implement dynamically extend file size.
+-Improve Nachos basica file system: allowing multiple thread read and write same file at same time. Increase the file size to be as larger as the disk (128KB). Implementing dynamically extend file size.
 
 -DFS
           
