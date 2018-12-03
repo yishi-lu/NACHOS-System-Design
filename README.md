@@ -7,7 +7,7 @@ Project1 (Process and Scheduling):
 
 -Add priority round robin scheduling. user can specify the time quantum by command ./nchos -quantum xxx.
           
-Project2 (System call and Virtual Memory): 
+Project2 (System Call and Virtual Memory): 
 
 -Add same system calls, which include fork(), wait(), exit(), write().
 
@@ -17,7 +17,10 @@ Project2 (System call and Virtual Memory):
 
 -Add round robin scheduling.
 
-Project3: 
+Project3 (Distributed File System): 
 
--File system is in progress
+-Improve Nachos basica file system: allowing multiple thread read and write same file at same time. Increase the file size to be as larger as the dist (128KB). Implement dynamically extend file size.
+
+-DFS
           
+-Still in progress.
