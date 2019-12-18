@@ -1,5 +1,4 @@
-# Nachos course project 
-(CIS657 Principle of Operating System, Syracuse University)
+# Nachos System Design project 
 
 ### Project1 (Process and Scheduling): 
 
