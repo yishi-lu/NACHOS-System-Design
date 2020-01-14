@@ -1,4 +1,4 @@
-# Nachos System Design project 
+# NACHOS System Design 
 
 ### Project1 (Process and Scheduling): 
 
