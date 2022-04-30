@@ -8,7 +8,7 @@
           
 ### Project2 (System Call and Virtual Memory): 
 
--Add same system calls, which include fork(), wait(), exit(), write().
+-Add some system calls, which include fork(), wait(), exit(), write().
 
 -Improve the system to allow multiple user program run at same time.
 
